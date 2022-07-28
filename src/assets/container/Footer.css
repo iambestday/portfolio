@@ -1,0 +1,77 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap");
+.footer {
+  font-family: "Quicksand", sans-serif;
+}
+
+
+.upperFooter{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 1rem;
+  font-size: 11px;
+  text-align: justify;
+}
+.downFooter {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  color: black;
+  font-size: 14px;
+  margin: 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+
+.card {
+  /* border: 1px solid gray; */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 20rem;
+  height: 20rem;
+  padding: 1rem;
+}
+
+
+.footer-left:hover::before{
+    width:10px;
+    background: #ffbc04;
+    height: 2px;
+    content: "";
+    display: inline-block;
+    margin-right: 0.5rem;
+   position: relative;
+   top: -3px;
+   
+
+}
+
+.verticalLine{
+  border-left: 1px solid rgb(42, 42, 42);
+  height: 200px;
+}
+
+
+.centerRight{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+ position: absolute;
+ right: 10px;
+}
+
+.xPos , .yPos{
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem ;
+  font-size: 9px;
+  -ms-transform: rotate(90deg); /* IE 9 */
+  transform: rotate(90deg);
+ 
+}
+
+.playerCard{
+  margin: 1rem 0;
+}

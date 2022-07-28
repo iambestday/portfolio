@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@500&display=swap");
+
+.head-avatar {
+  width: 50px;
+  height: 50px;
+}
+
+.logo {
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.name {
+  font-family: "Big Shoulders Display";
+  font-size: 1.5rem;
+  color: rgb(0, 0, 0);
+}
+
+.description {
+  font-family: "Big Shoulders Display";
+  font-size: 0.5 rem;
+  color: rgb(0, 0, 0);
+}
+
+.horizontalLine {
+  height: 1px;
+  border-width: 0;
+  color: gray;
+  background-color: gray;
+}
