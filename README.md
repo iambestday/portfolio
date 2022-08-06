@@ -4,11 +4,10 @@
 Hi guys, This is my personal website template
 
 ##  👀 Demo 
+![personal-website](https://user-images.githubusercontent.com/94782242/183249251-3c7dc831-cfe7-401f-ab5f-4b521883e350.png)
 
 
 https://portfolio-livid-five-29.vercel.app/
-![personal-website](https://user-images.githubusercontent.com/94782242/183249251-3c7dc831-cfe7-401f-ab5f-4b521883e350.png)
-
 
 ## Roadmap 👨‍💻
 
